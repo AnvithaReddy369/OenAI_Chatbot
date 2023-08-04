@@ -13,7 +13,7 @@ import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r"C:\Users\ANVITHA\AppData\Local\Programs\Tesseract-OCR\tesseract.exe"
 from tkinter import filedialog
 import time
-openai.api_key = "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"
+openai.api_key = "enter your API key here"
 
 
 
